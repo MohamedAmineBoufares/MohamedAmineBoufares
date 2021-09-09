@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+
+### My name is Mohamed Amine Boufares, I'm a teleinformatics engenering student who's trying he's best to be one of thes best in this field.
+
+
+### It's nice to meet you and feel free to take a tour at my github account and stay safe.
 
 
 - 🔭 I’m currently working on an E-Learning plateform
