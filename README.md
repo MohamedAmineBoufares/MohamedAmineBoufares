@@ -9,8 +9,8 @@
 ## More about Me:
 
 
-- 🔭 I’m currently looking for an end of study internship
-- 🌱 I’m currently learning the MERN Stack and NextJS
+- 🔭 I’m currently working on my internship project using ReactJS + NestJS + MongoDB
+- 🌱 I’m currently learning NestJS and NextJS
 - 😄 Pronouns: Aminos
 
 
