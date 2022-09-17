@@ -9,8 +9,7 @@
 ## More about Me:
 
 
-- 🔭 I’m currently working on my internship project using ReactJS + NestJS + MongoDB
-- 🌱 I’m currently learning NestJS and NextJS
+- 🔭 I’m currently working at ADN Ecpertise Tunisia
 - 😄 Pronouns: Aminos
 
 
