@@ -10,6 +10,7 @@
 
 
 - 🔭 I’m currently working at ADN Ecpertise Tunisia
+- 🎯 I'm currently learning about WEB 3.0 technlogies
 - 😄 Pronouns: Aminos
 
 
