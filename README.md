@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 
-#### My name is Mohamed Amine Boufares, I'm a Software Engineer who's trying he's best to be one of thes best in this field.
+#### My name is Mohamed Amine Boufares, I'm a Software Engineer who's trying his best to be one of the best in this field.
 
 
-#### It's nice to meet you and feel free to take a tour at my github account and stay safe.
+#### It's nice to meet you feel free to take a tour of my GitHub account and stay safe.
 
-## More about Me:
+## More About Me:
 
 
-- 🔭 I’m currently working at ADN Ecpertise Tunisia
-- 🎯 I'm currently learning about WEB 3.0 technlogies
+- 🔭 I’m currently working at ADN Expertise Tunisia
+- 🎯 I'm currently learning about Next.js
 - 😄 Pronouns: Aminos
 
 
