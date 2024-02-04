@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working at ADN Expertise Tunisia
-- 🎯 I'm currently learning about Next.js
+- 🎯 I'm currently learning Next.js
 - 😄 Pronouns: Aminos
 
 
