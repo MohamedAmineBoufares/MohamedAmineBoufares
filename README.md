@@ -1,18 +1,61 @@
-## Hi there 👋
+# Hi, I'm Mohamed Amine Boufares 👋
 
+### Frontend Engineer | React • Next.js • React Native | TypeScript
 
-#### My name is Mohamed Amine Boufares, I'm a Software Engineer who's trying his best to be one of the best in this field.
+I'm a Software Engineer with 4+ years of professional experience building modern, scalable, and maintainable web applications.
 
+My primary focus is frontend development, with a strong interest in crafting intuitive user experiences, building reusable architectures, and writing clean, reliable code.
 
-#### It's nice to meet you feel free to take a tour of my GitHub account and stay safe.
+I'm also exploring **AI Engineering**, particularly LLMs, AI-powered applications, and agentic workflows.
 
-## More About Me:
+### 🚀 What I Do
 
+- 💻 Build modern web applications using **React, Next.js, and TypeScript**.
+- 📱 Develop cross-platform mobile applications with **React Native and Expo**.
+- 🏗️ Focus on clean architecture, reusable components, and maintainable code.
+- ⚡ Work with modern frontend tooling, state management, and data-fetching solutions.
+- 🤖 Explore AI Engineering, LLMs, and AI-assisted software development.
 
-- 🔭 I’m currently working at ADN Expertise Tunisia
-- 🎯 I'm currently learning Next.js
-- 😄 Pronouns: Aminos
+### 🛠️ Tech Stack
 
+**Frontend**
+- React.js, Next.js, React Native, Expo
+- TypeScript, JavaScript
+- Tailwind CSS, CSS Modules, Shadcn UI
+- Redux Toolkit, Zustand, TanStack Query
+- React Router, Vite
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmineBoufares)](https://github.com/anuraghazra/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAmineBoufares
-)](https://github.com/anuraghazra/github-readme-stats) 
+**Backend & Database**
+- Node.js, NestJS
+- PostgreSQL
+
+**Testing & Tools**
+- Jest, React Testing Library, Cypress
+- Git, GitHub, Docker
+- VS Code
+
+**Currently Exploring**
+- AI Engineering
+- Large Language Models (LLMs)
+- AI Agents & Agentic Workflows
+- Python & AI-powered applications
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=MohamedAmineBoufares&show_icons=true&theme=transparent&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohamedAmineBoufares&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in connecting with fellow developers, exploring new technologies, and exchanging ideas.
+
